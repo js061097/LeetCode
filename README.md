@@ -1,2 +1,3 @@
 # LeetCode
-My solutions for LeetCode problems
+My solutions for LeetCode problems.
+*in C++
