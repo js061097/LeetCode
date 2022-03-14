@@ -1,3 +1,3 @@
 # LeetCode
-My solutions (in C++) for LeetCode problems.
+My solutions for LeetCode problems. The codes are written in C++.
 
